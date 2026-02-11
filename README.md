@@ -8,6 +8,7 @@ Manter constância de estudos e registrar evolução com commits frequentes.
 ## Estrutura
 - `python/` — desafios em Python
 - `javascript/` — desafios em JavaScript
+- `java/` — desafios em Java
 
 ## Como executar
 

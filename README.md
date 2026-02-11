@@ -1,21 +1,39 @@
-# 🚀 Desafios de Lógica  
+# 🚀 Desafios de Lógica
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+<p align="center">
+  <b>Praticando lógica e algoritmos com múltiplas linguagens 🚀</b>
+</p>
 
-Repositório para praticar fundamentos de programação com desafios curtos em **Python** e **JavaScript**.
+---
 
-## Objetivo
-Manter constância de estudos e registrar evolução com commits frequentes.
+## 📌 Sobre o Projeto
 
-## Estrutura
-- `python/` — desafios em Python
-- `javascript/` — desafios em JavaScript
-- `java/` — desafios em Java
+Repositório dedicado à prática contínua de lógica de programação, utilizando múltiplas linguagens para fortalecer fundamentos essenciais da Ciência da Computação.
 
-## Como executar
+Este projeto faz parte da minha jornada de transição para a área de tecnologia.
 
-### Python
+---
+
+## 🎯 Objetivo
+
+- Consolidar fundamentos de programação
+- Praticar estruturas de dados e algoritmos
+- Manter constância com commits frequentes
+- Demonstrar evolução técnica
+
+---
 ```bash
-python python/desafio01_primo.py
+
+## 📂 Estrutura do Projeto
+
+desafios-de-logica/
+│
+├── python/
+├── javascript/
+└── java/
+```
